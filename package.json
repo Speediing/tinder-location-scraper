@@ -1,0 +1,14 @@
+{
+  "name": "shvoo",
+  "version": "1.0.0",
+  "description": "bot to scrape tinder location data",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Wiker",
+  "license": "MIT",
+  "dependencies": {
+    "tinder": "^1.19.0"
+  }
+}
